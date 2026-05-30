@@ -36,7 +36,9 @@ Defining the foundational brand assets including logo variations, color palette 
 - `public/fonts/Surgena/` — Source files for the Surgena typeface
 - `public/Airys-Logo/` — SVG and PNG logo exports for Dark, Light, NoColor, and Minimal variations.
 - `https://www.figma.com/design/vGR48Q1nEthEG5y9wK2JNk/Airys---Brandkit?node-id=0-1` — Figma Brandkit
-- `https://www.figma.com/design/vGR48Q1nEthEG5y9wK2JNk/Airys---Brandkit?node-id=435-2399&m=dev` — Figma Dev Mode Reference
+- `https://www.figma.com/design/vGR48Q1nEthEG5y9wK2JNk/Airys---Brandkit?node-id=435-2399&m=dev` — Figma Dev Mode Reference (Ad Creatives)
+- `https://www.figma.com/design/vGR48Q1nEthEG5y9wK2JNk/Airys---Brandkit?node-id=1-2&m=dev` — Figma Dev Mode Reference (Airys and AirysChat Logos)
+- `https://www.figma.com/design/vGR48Q1nEthEG5y9wK2JNk/Airys---Brandkit?node-id=1-3&m=dev` — Figma Dev Mode Reference (Primary Logo Vector)
 
 </canonical_refs>
 
