@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Surgena';
+  src: url('/fonts/Surgena/Surgena-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Surgena';
+  src: url('/fonts/Surgena/Surgena-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 0%;
+
+    /* Primary Brand Color: Airys Blue placeholder */
+    --primary-50: 214 100% 97%;
+    --primary-100: 214 100% 93%;
+    --primary-200: 214 100% 86%;
+    --primary-300: 214 100% 74%;
+    --primary-400: 214 100% 60%;
+    --primary-500: 214 100% 50%; /* Base primary */
+    --primary-600: 214 100% 43%;
+    --primary-700: 214 100% 35%;
+    --primary-800: 214 100% 28%;
+    --primary-900: 214 100% 23%;
+  }
+
+  .dark {
+    --background: 220 20% 5%;
+    --foreground: 0 0% 100%;
+
+    /* Dark mode might invert or slightly shift the scale to maintain contrast */
+    --primary-50: 214 100% 23%;
+    --primary-100: 214 100% 28%;
+    --primary-200: 214 100% 35%;
+    --primary-300: 214 100% 43%;
+    --primary-400: 214 100% 50%;
+    --primary-500: 214 100% 60%; /* Base primary for dark mode */
+    --primary-600: 214 100% 74%;
+    --primary-700: 214 100% 86%;
+    --primary-800: 214 100% 93%;
+    --primary-900: 214 100% 97%;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground;
+  }
+}
