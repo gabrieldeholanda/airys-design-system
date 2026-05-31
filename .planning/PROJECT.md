@@ -2,11 +2,11 @@
 
 ## What This Is
 
-A comprehensive design system for Airys and AirysChat, standardizing the brand identity, UI components, and marketing assets (decks, illustrations, landing pages). It serves as the single source of truth for all Airys products.
+A comprehensive design system for Airys and AirysChat, standardizing the brand identity, UI components, and marketing assets (decks, illustrations, landing pages). It serves as the single source of truth for all Airys products and acts as the orchestrator for the **AI Design Squad**—a suite of custom GSD agents that autonomously generate brand-compliant creative assets.
 
 ## Core Value
 
-Provide a consistent, modern, and tech-focused dark-mode aesthetic that accelerates development and maintains brand authority across all Airys products.
+Provide a consistent, modern, and tech-focused dark-mode aesthetic that accelerates development and maintains brand authority across all Airys products. Furthermore, leverage multi-modal AI to autonomously generate marketing creatives at scale without deviating from the design contract.
 
 ## Requirements
 
@@ -21,6 +21,7 @@ Provide a consistent, modern, and tech-focused dark-mode aesthetic that accelera
 - [ ] Establish core brand identity and logo variations
 - [ ] Deliver base UI components (buttons, inputs, modals)
 - [ ] Provide marketing and presentation assets (decks, illustrations)
+- [ ] Enable autonomous generation of brand-compliant creatives via multi-modal AI agents (AI Design Squad)
 
 ### Out of Scope
 

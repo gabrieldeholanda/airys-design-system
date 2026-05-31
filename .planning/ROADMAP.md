@@ -34,5 +34,15 @@
 2. Core illustrations representing "humanized AI" are completed.
 3. The landing page hero section is designed using the Phase 2 components.
 
+### Phase 4: AI Design Squad Infrastructure
+**Goal:** Build out specialized custom GSD agents (Creative Director, Copywriter, Visual Designer) and a generative workflow to autonomously create brand-compliant marketing assets.
+**Mode:** mvp
+**Requirements:** SQUAD-01, SQUAD-02, SQUAD-03
+**UI hint:** no
+**Success Criteria:**
+1. Custom subagents for creative direction, copywriting, and visual design are created.
+2. A unified `/gsd-generate-creative` workflow is available to orchestrate the generation pipeline.
+3. Assets are generated and saved directly to the repository (e.g., in `/public/campaigns`).
+
 ---
 *Roadmap generated: Monday, May 11, 2026*
